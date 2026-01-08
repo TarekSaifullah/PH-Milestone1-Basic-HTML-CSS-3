@@ -14,3 +14,11 @@ nav li a{
     text-decoration: none;
 
 }
+p {
+    text-align: justify;
+    background-color: lightgray;
+}
+
+footer p{
+    text-align: center;
+}
