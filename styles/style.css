@@ -18,6 +18,12 @@ p {
     text-align: justify;
     background-color: lightgray;
 }
+#aboutme {
+    background-color: red;
+}
+#mid{
+    text-align: center;
+}
 
 footer p{
     text-align: center;
